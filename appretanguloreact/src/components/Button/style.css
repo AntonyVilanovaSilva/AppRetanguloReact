@@ -1,0 +1,13 @@
+.Btn{
+    background-color: green;
+    color: black;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.Btn:hover{
+    cursor: pointer;
+
+}
